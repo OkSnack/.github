@@ -1,4 +1,4 @@
-## Hi there 👋 We are Ok Snack
+# Hi there 👋 We are Ok Snack
 
 ## Our tools and technologies
 
