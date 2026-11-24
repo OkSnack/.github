@@ -1,4 +1,4 @@
-** Ok Snack
+# Ok Snack
 
 **Gestão de pedidos para lanchonetes e restaurantes, simples e na nuvem.**
 
